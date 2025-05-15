@@ -1,4 +1,4 @@
-import streamlit as st
+wa import streamlit as st
 
 st.title("Selamat datang di website disvelocyty")
 st.image("IMG_1404.jpeg", width=200) 
